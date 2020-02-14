@@ -1,0 +1,10 @@
+Le nombre d accidents par cause preponderante#Barre,Camembert,Nuage?2
+Le nombre de pietons decedes par troncon#Barre,Camembert,Nuage?2
+Le nombre d accidents mortels par annee#Barre,Camembert,Nuage,Graphe?2
+Le nombre d accidents mortels par type d infrastructure routiere par etat chaussee#Tableau?3
+Le taux d accident lie au facteur environnement#Barre,Camembert,Nuage?2
+Le nombre de blesses par annee#Barre,Camembert,Nuage,Graphe?2
+Le nombre d accidents par cause preponderante par condition meteorologique#Tableau?3
+Le nombre de deces par annee par condition meteorologique#Tableau?3
+Le nombre d accidents mortels par annee#Barre,Camembert,Nuage,Graphe?2
+Le nombre de conducteurs blesses legers par troncon#Barre,Camembert,Nuage?2

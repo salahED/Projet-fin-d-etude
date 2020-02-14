@@ -1,0 +1,5 @@
+Le nombre de pietons decedes par troncon,STAT_TRONCON_PIETOND#Barre,Camembert,Nuage,Carte
+L etat de la chaussee par section de route,STAT_SECTION_ETAT_CHAUSSE#Carte
+Le nombre d accidents mortels dans les routes a sens unique,STAT_ROUTE_NBACCM_SSENS#Barre,Camembert,Nuage,Carte
+Le nombre de victimes par commune,STAT_COMMUNE_VICTIME#Barre,Camembert,Nuage,Carte
+Le nombre de blesses par commune,STAT_COMMUNE_BLESSES#Barre,Camembert,Nuage,Carte

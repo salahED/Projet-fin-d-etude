@@ -1,0 +1,91 @@
+
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+
+
+.selectBox input{ display: none;font: 16px Raleway;  }
+
+.selectBox input:checked + label {
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-bottom: 3px solid black;
+  border-color: #0088CC;
+border-radius: 0 0 5px 5PX;
+  z-index: 1;
+}
+.selectBox input:checked + label:before {
+  background: #0088CC;
+  box-shadow: 0 0 0 1px #0088CC;
+}
+input[type="radio"][disabled] + label 
+{
+    color: #ccc;
+}
+.selectBox label {
+  position: relative;
+  padding: 15px 15px 15px 40px;
+  cursor: pointer;
+  font-weight: bold;
+}
+.selectBox label:before {
+  content: '';
+  width: 15px;
+  height: 15px;
+  box-shadow: 0 0 0 1px #ccc;
+ // border: 3px solid #fff;
+  position: absolute;
+  left: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.selectBox label:hover {
+  border-top-color: #0088CC;
+  border-bottom-color: #0088CC;
+  z-index: 1;
+}
+.selectBox.radio label:before {
+  border-radius: 100%;
+}
+
+.selectBoxGroup {
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+}
+.selectBoxGroup .selectBox {
+  margin-left: -1px;
+}
+.selectBoxGroup .selectBox:first-child {
+  margin-left: 0;
+}
+@media screen and (max-width: 568px) {
+  .selectBoxGroup {
+    flex-direction: column;
+  }
+  .selectBoxGroup .selectBox {
+    margin-left: 0;
+  }
+  .selectBoxGroup .selectBox label {
+    width: 100%;
+  }
+}
+.selectBoxGroup.underneath {
+  flex-direction: column;
+}
+.selectBoxGroup.underneath .selectBox {
+  margin-left: 0;
+}
+.selectBoxGroup.underneath .selectBox label {
+  width: 100%;
+}
+.selectBoxGroup.rtl {
+  direction: rtl;
+}
+.selectBoxGroup.rtl label {
+  width: 100%;
+  padding: 15px 40px 15px 15px;
+  text-align: right;
+}
+.selectBoxGroup.rtl label:before {
+  right: 15px;
+}

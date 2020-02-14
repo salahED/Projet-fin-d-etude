@@ -1,0 +1,26 @@
+Le nombre de conducteurs decedes par commune / AAAWuyAAGAAABddAAf / KOUBA / 3.05267333 / 36.7438023 / 88 / 71 / 3
+Le nombre de conducteurs decedes par commune / AAAWuyAAGAAABddAAb / EL ACHOUR / 2.96103997 / 36.74976041 / 94 / 83 / 3
+Le nombre de conducteurs decedes par commune / AAAWuyAAGAAABddAAS / ROUIBA / 3.23853589 / 36.77824147 / 167 / 142 / 3
+Le nombre de conducteurs decedes par commune / AAAWuyAAGAAABddAAk / SOUIDANIA / 2.87212268 / 36.73620223 / 111 / 89 / 3
+Le nombre de conducteurs decedes par commune / AAAWuyAAGAAABddAAi / DAR EL BEIDA / 3.16307482 / 36.73899364 / 173 / 134 / 3
+Le nombre de conducteurs decedes par commune / AAAWuyAAGAAABddAAd / OULED FAYET / 2.91101802 / 36.74797096 / 107 / 83 / 3
+Le nombre de conducteurs decedes par commune / AAAWuyAAGAAABddAAr / OUED SMAR / 3.14739795 / 36.72449767 / 108 / 53 / 3
+Le nombre de conducteurs decedes par commune / AAAWuyAAGAAABddAAr / OUED SMAR / 3.14739795 / 36.72449767 / 108 / 53 / 3
+Le nombre de conducteurs decedes par commune / AAAWuyAAGAAABddAAf / KOUBA / 3.05267333 / 36.7438023 / 131 / 107 / 4
+Le nombre de conducteurs decedes par commune / AAAWuyAAGAAABddAAY / HYDRA / 3.00119015 / 36.7573814 / 129 / 86 / 4
+Le nombre de conducteurs decedes par commune / AAAWuyAAGAAABddAAQ / EL BIAR / 3.00991121 / 36.77938467 / 109 / 66 / 4
+Le nombre de conducteurs decedes par commune / AAAWuyAAGAAABdeAAC / DOUERA / 2.8780189 / 36.70660951 / 199 / 136 / 3
+Le nombre de conducteurs decedes par commune / AAAWuyAAGAAABddAAk / SOUIDANIA / 2.87212268 / 36.73620223 / 111 / 89 / 3
+Le nombre de blesses par commune / AAAWuyAAGAAABddAAp / EL HARRACH / 3.11503591 / 36.73079912 / 91 / 69 / 3
+Le nombre de blesses par commune / AAAWuyAAGAAABddAAl / DRARIA / 2.9794868 / 36.7351199 / 87 / 78 / 3
+Le nombre de blesses par commune / AAAWuyAAGAAABddAAP / CHERAGA / 2.87881533 / 36.78400259 / 188 / 89 / 3
+Le nombre de blesses par commune / AAAWuyAAGAAABdeAAF / LES EUCALYPTUS / 3.12376859 / 36.69602168 / 153 / 100 / 3
+Le nombre de blesses par commune / AAAWuyAAGAAABdeAAD / BARAKI / 3.06604082 / 36.70450096 / 118 / 125 / 3
+Le nombre d accidents mortels dans les sections en mauvais etat / AAAWvNAAGAAABmuAAC / RN 8 t4 s1 / 3.14686868 / 36.67861922 / 51 / 48 / 3
+Le nombre d accidents mortels dans les sections en mauvais etat / AAAWvNAAGAAABqMAAE / CW 122 t1 s17 / 3.08547488 / 36.64912162 / 4 / 8 / 3
+Le nombre d accidents dans les sections en mauvais etat / AAAWvNAAGAAABnmAAB / RN 36 t3 s1 / 3.00784538 / 36.66079465 / 41 / 24 / 3
+Le nombre d accidents dans les sections en mauvais etat / AAAWvNAAGAAABnzAAM / CW 119 t1 s6 / 3.11010878 / 36.64291062 / 18 / 27 / 3
+Le nombre d accidents dans les sections en mauvais etat / AAAWvNAAGAAABqVAAB / CW 142 t3 s7 / 2.84196058 / 36.67070182 / 17 / 7 / 3
+Le nombre d accidents dans les sections en mauvais etat / AAAWvNAAGAAABmrAAA / A1 RN 1 t1
+ s1 / 3.04073961 / 36.75224554 / 14 / 12 / 3
+Le nombre d accidents dans les sections en mauvais etat / AAAWvNAAGAAABmuAAD / RN 5E t1 s1 / 3.16344498 / 36.69790092 / 38 / 13 / 3
